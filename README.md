@@ -5,6 +5,6 @@ Se incluyen métodos para consulta, modificación, creación y borrado de tablas
 
 Por motivos de testing las tablas están incluidas dentro del archivo, debido a que al momento de hacer el programa la base de datos no estaba lista, pero es cuestión de cambiar las direcciones.
 
-Se hizo testing en el proyecto, pero no se terminó por motivos de desacuerdo.
+Se hizo testing en el proyecto, pero éste no se terminó por motivos de desacuerdo.
 
 --Lucas
