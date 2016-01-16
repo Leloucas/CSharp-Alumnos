@@ -1,0 +1,16 @@
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\bin\Debug\PVI_Final.exe.config
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\bin\Debug\PVI_Alumnos2.accdb
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\bin\Debug\PVI_Final.exe
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\bin\Debug\PVI_Final.pdb
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.csprojResolveAssemblyReference.cache
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Form1.resources
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Form2.resources
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Properties.Resources.resources
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.csproj.GenerateResource.Cache
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.exe
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.pdb
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Criterios.resources
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Consultas.resources
+c:\users\otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Buscar.resources
+C:\Users\Otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Final.resources
+C:\Users\Otros\documents\visual studio 2013\Projects\PVI_Final\PVI_Final\obj\Debug\PVI_Final.Ponderar.resources
